@@ -1,0 +1,26 @@
+﻿  main.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\numbers(11): warning STL4038: The contents of <numbers> are available only with C++20 or later.
+C:\Users\Jo-Lenn\Desktop\landen2richautoupdated (1)\settings\settings.h(241,77): error C2676: Binärer Operator "[": "ImVec4" definiert diesen Operator oder eine Konvertierung in einen für den vordefinierten Operator geeigneten Typ nicht
+  (Quelldatei „main/main.cpp“ wird kompiliert)
+  
+C:\Users\Jo-Lenn\Desktop\landen2richautoupdated (1)\settings\settings.h(242,81): error C2676: Binärer Operator "[": "ImVec4" definiert diesen Operator oder eine Konvertierung in einen für den vordefinierten Operator geeigneten Typ nicht
+  (Quelldatei „main/main.cpp“ wird kompiliert)
+  
+C:\Users\Jo-Lenn\Desktop\landen2richautoupdated (1)\settings\settings.h(243,87): error C2676: Binärer Operator "[": "ImVec4" definiert diesen Operator oder eine Konvertierung in einen für den vordefinierten Operator geeigneten Typ nicht
+  (Quelldatei „main/main.cpp“ wird kompiliert)
+  
+C:\Users\Jo-Lenn\Desktop\landen2richautoupdated (1)\settings\settings.h(244,91): error C2676: Binärer Operator "[": "ImVec4" definiert diesen Operator oder eine Konvertierung in einen für den vordefinierten Operator geeigneten Typ nicht
+  (Quelldatei „main/main.cpp“ wird kompiliert)
+  
+C:\Users\Jo-Lenn\Desktop\landen2richautoupdated (1)\settings\settings.h(245,83): error C2676: Binärer Operator "[": "ImVec4" definiert diesen Operator oder eine Konvertierung in einen für den vordefinierten Operator geeigneten Typ nicht
+  (Quelldatei „main/main.cpp“ wird kompiliert)
+  
+C:\Users\Jo-Lenn\Desktop\landen2richautoupdated (1)\settings\settings.h(246,87): error C2676: Binärer Operator "[": "ImVec4" definiert diesen Operator oder eine Konvertierung in einen für den vordefinierten Operator geeigneten Typ nicht
+  (Quelldatei „main/main.cpp“ wird kompiliert)
+  
+C:\Users\Jo-Lenn\Desktop\landen2richautoupdated (1)\settings\settings.h(247,63): error C2676: Binärer Operator "[": "ImVec4" definiert diesen Operator oder eine Konvertierung in einen für den vordefinierten Operator geeigneten Typ nicht
+  (Quelldatei „main/main.cpp“ wird kompiliert)
+  
+C:\Users\Jo-Lenn\Desktop\landen2richautoupdated (1)\settings\settings.h(248,75): error C2676: Binärer Operator "[": "ImVec4" definiert diesen Operator oder eine Konvertierung in einen für den vordefinierten Operator geeigneten Typ nicht
+  (Quelldatei „main/main.cpp“ wird kompiliert)
+  
